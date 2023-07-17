@@ -7,12 +7,12 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("src")]
+[assembly: AssemblyTitle("ProTemCraft")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("src")]
-[assembly: AssemblyCopyright("Copyright © HP 2023")]
+[assembly: AssemblyCompany("LEVY")]
+[assembly: AssemblyProduct("LEVY")]
+[assembly: AssemblyCopyright("Copyright © LEVY 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
