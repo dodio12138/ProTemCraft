@@ -1,5 +1,5 @@
 #ProTemCraft
-<center>[简体中文](./docs/README-ZH.md)</center>
+>[简体中文](./docs/README-ZH.md)
 ---
 ## 📢 Introduction
 This is a project template generator that generates a bat command for each of your projects, after which you can create project templates with a single click.
