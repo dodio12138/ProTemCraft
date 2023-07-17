@@ -1,4 +1,4 @@
-#ProTemCraft
+# ProTemCraft
 >[简体中文](./docs/README-ZH.md)
 ---
 ## 📢 Introduction
