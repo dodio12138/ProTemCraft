@@ -1,5 +1,4 @@
 # ProTemCraft
- Project Template Craft
 
 ## 介绍
 这是一个项目模板生成器，为你的各个项目生成一个bat指令，之后便可以一键创建项目模板。
