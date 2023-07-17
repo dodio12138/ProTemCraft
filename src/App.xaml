@@ -3,6 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:src">
     <Application.Resources>
-        <Image Source="/Icon.ico"/>
+        
     </Application.Resources>
 </Application>

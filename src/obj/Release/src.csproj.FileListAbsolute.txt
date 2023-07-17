@@ -1,0 +1,16 @@
+F:\github\ProTemCraft\src\bin\Release\main.exe.config
+F:\github\ProTemCraft\src\bin\Release\main.exe
+F:\github\ProTemCraft\src\bin\Release\main.pdb
+F:\github\ProTemCraft\src\obj\Release\src.csproj.AssemblyReference.cache
+F:\github\ProTemCraft\src\obj\Release\src.csproj.SuggestedBindingRedirects.cache
+F:\github\ProTemCraft\src\obj\Release\MainWindow.g.cs
+F:\github\ProTemCraft\src\obj\Release\App.g.cs
+F:\github\ProTemCraft\src\obj\Release\main_MarkupCompile.cache
+F:\github\ProTemCraft\src\obj\Release\main_MarkupCompile.lref
+F:\github\ProTemCraft\src\obj\Release\MainWindow.baml
+F:\github\ProTemCraft\src\obj\Release\main.g.resources
+F:\github\ProTemCraft\src\obj\Release\main.Properties.Resources.resources
+F:\github\ProTemCraft\src\obj\Release\src.csproj.GenerateResource.cache
+F:\github\ProTemCraft\src\obj\Release\src.csproj.CoreCompileInputs.cache
+F:\github\ProTemCraft\src\obj\Release\main.exe
+F:\github\ProTemCraft\src\obj\Release\main.pdb
